@@ -1,0 +1,41 @@
+.header {
+    background-color: hsl(292, 48%, 79%);
+    border: 6px dotted black;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.jobs, .education {
+    border: 3px dotted black;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: hsl(97, 48%, 79%);
+}
+li {
+    list-style-position: inside;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+    display: block;
+    border-radius: 10px;
+}
+figure {
+    text-align: Center;
+}
+
+body {
+    background-color: hsl(172, 48%, 79%);
+}
