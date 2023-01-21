@@ -1,0 +1,54 @@
+.header {
+    background-color:#E5B2D9;
+    border: 6px dotted black;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.jobs, .education {
+    border: 3px dotted black;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: #E5B2D9;
+}
+li {
+    list-style-position: inside;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+    display: block;
+    border-radius: 10px;
+}
+figure {
+    text-align: Center;
+}
+
+body {
+    background-color:#D8B2E5;
+}
+.faktaruta {
+    float: left;
+    flex-flow: column;
+    position: fixed;
+    border: 3px dotted black;
+    padding: 5px;
+    margin-top: 10px;
+    text-align:justify;
+    margin-left: 20px;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: #BEB2E5;
+}
